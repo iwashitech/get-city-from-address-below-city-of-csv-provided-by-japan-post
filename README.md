@@ -1,4 +1,4 @@
-# 市区町村以下の住所から市区町村を取得
+# 郵便局が提供している住所の郵便番号のCSVの市区町村以下の住所から市区町村を取得
 
 https://www.post.japanpost.jp/zipcode/download.html
 
